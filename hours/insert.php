@@ -2,8 +2,8 @@ Hello, I am insert.php.
 
 <p><pre><?php
 $servername = "localhost";
-$username = "kunstdes_admin";
-$password = "EsUoB2GFg:%M8_";
+$username = "";
+$password = "";
 $dbname = "kunstdes_SVA_01";
 
 // Create connection

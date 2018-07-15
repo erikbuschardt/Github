@@ -1,8 +1,8 @@
 <meta http-equiv="refresh" content="0; url=/hours/blanc.php" />
 <?php
 $servername = "localhost";
-$username = "kunstdes_admin";
-$password = "EsUoB2GFg:%M8_";
+$username = "";
+$password = "";
 $dbname = "kunstdes_SVA_01";
 if($_POST['formDelete'] == "DELETE") {
 	

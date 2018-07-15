@@ -222,8 +222,8 @@ loadedobjects+=file+" " //Remember this object as being already added to page
 
 <?php
 $servername = "localhost";
-$username = "kunstdes_admin";
-$password = "EsUoB2GFg:%M8_";
+$username = "";
+$password = "";
 $dbname = "kunstdes_SVA_01";
 
 // Create connection
@@ -482,8 +482,8 @@ textarea {
 </style>
 <p><!--<pre>--><?php
 $servername = "localhost";
-$username = "kunstdes_admin";
-$password = "EsUoB2GFg:%M8_";
+$username = "";
+$password = "";
 $dbname = "kunstdes_SVA_01";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -837,8 +837,8 @@ style="border: 2px solid #A00; padding: 0px 0px 0px 5px; width: 250px;" />
 														
 <?php
 $servername = "localhost";
-$username = "kunstdes_admin";
-$password = "EsUoB2GFg:%M8_";
+$username = "";
+$password = "";
 $dbname = "kunstdes_SVA_01";
 // Create connection
 $conn3 = new mysqli($servername, $username, $password, $dbname);
@@ -995,8 +995,8 @@ style="border: 2px solid #A00; padding: 0px 0px 0px 5px; width: 250px;" />
 														
 <?php
 $servername = "localhost";
-$username = "kunstdes_admin";
-$password = "EsUoB2GFg:%M8_";
+$username = "";
+$password = "";
 $dbname = "kunstdes_SVA_01";
 // Create connection
 $conn2 = new mysqli($servername, $username, $password, $dbname);
@@ -1344,8 +1344,8 @@ $conn->close();
 	
 <?php
 $servername = "localhost";
-$username = "kunstdes_admin";
-$password = "EsUoB2GFg:%M8_";
+$username = "";
+$password = "";
 $dbname = "kunstdes_SVA_01";
 
 // Create connection
@@ -1527,8 +1527,8 @@ echo "<p>Total reported hours for " . $y . $z . ": ";
 
 
 $servername = "localhost";
-$username = "kunstdes_admin";
-$password = "EsUoB2GFg:%M8_";
+$username = "";
+$password = "";
 $dbname = "kunstdes_SVA_01";
 
 // Create connection
